@@ -1,0 +1,10 @@
+{
+  "api_port": ":1323",
+
+  "mysql_host": "localhost",
+  "mysql_user": "root",
+  "mysql_pass": "carabasbarabas",
+  "mysql_dbName": "chat",
+
+  "centrifugo_api_url": "http://localhost:8000/api"
+}
